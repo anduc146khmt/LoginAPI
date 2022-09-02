@@ -1,6 +1,6 @@
 # Login API
 
-Is is a RESTful API for developing website with login function.
+It is a RESTful API for developing website with login function.
 
 # Recommendation
 
@@ -9,7 +9,7 @@ view JSON format file.
 
 ## Usage
 
-Your API is in [http://localhost:3000/api/account](http://localhost:3000/api/account)
+API is in [http://localhost:3000/api/account](http://localhost:3000/api/account)
 
 ## Available Scripts
 
