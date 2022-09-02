@@ -2,6 +2,8 @@
 
 It is a RESTful API for developing website with login function.
 
+Technology: NodeJS, MongoDB
+
 # Recommendation
 
 You should download [JSON Viewer Extension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related) in Chrome to 
